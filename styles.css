@@ -1,0 +1,15 @@
+*   {  font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 400px;   
+    margin: 10px auto;
+    }
+
+h1 { color: brown;
+    display:block ;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Times New Roman', Times, serif;}
+h2 {color: brown;
+    display:block ;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Times New Roman', Times, serif;}
+.grande{font-size: medium;
+    display:block ;}
+.pequeno {font-size: small;
+    display:block ;}
